@@ -1,2 +1,1 @@
-# redis-product-search
-Redis Bugbounty POC
+# Redis Bugbounty POC
